@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for internship at a software company/startup
-- 🥅 2020 Goals: Gain some work experience
-- ⌨️ I'm a PCMR memeber
+- 🥅 2021 Goals: Gain some work experience
 
 ### Connect with me:
 
