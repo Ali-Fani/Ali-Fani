@@ -3,7 +3,7 @@
 ## I'm a Bachelor Student at Sajjad University of Technology
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I'm backend developer at [RayanPersis]: https://github.com/RayanPersis-Co
+- 👯 I'm backend developer at [Hugo Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 - 🥅 2021 Goals: Gain some work experience
 
 ### Connect with me:
