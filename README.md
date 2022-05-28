@@ -3,8 +3,8 @@
 ## I'm a Bachelor Student at Sajjad University of Technology
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I'm backend developer at [Hugo Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
-- 🥅 2021 Goals: Gain some work experience
+- 👯 I'm backend developer at [Rayan Persis](https://github.com/RayanPersis-Co)
+- 🥅 2022 Goals: Learn more technologies such as gRPC and Graphql
 
 ### Connect with me:
 
@@ -20,8 +20,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
