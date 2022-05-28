@@ -3,7 +3,7 @@
 ## I'm a Bachelor Student at Sajjad University of Technology
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for internship at a software company/startup
+- 👯 I'm backend developer at [RayanPersis]: https://github.com/RayanPersis-Co
 - 🥅 2021 Goals: Gain some work experience
 
 ### Connect with me:
