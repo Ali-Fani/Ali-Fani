@@ -2,8 +2,8 @@
 
 ## I'm a Bachelor Student at Sajjad University of Technology
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I'm backend developer at [Rayan Persis](https://github.com/RayanPersis-Co)
+
+- 💼 backend developer at [Rayan Persis](https://github.com/RayanPersis-Co)
 - 🥅 2022 Goals: Learn more technologies such as gRPC and Graphql
 
 ### Connect with me:
@@ -40,5 +40,4 @@
 [telegram1]: https://t.me/MrDelay
 [telegram2]: https://t.me/badboy_214
 [email]: alifani1377@gmail.com
-[email]: contact@alifani.ir
 
