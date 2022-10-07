@@ -3,7 +3,7 @@
 ## I'm a Bachelor Student at Sajjad University of Technology
 
 
-- 💼 backend developer at [Rayan Persis](https://github.com/RayanPersis-Co)
+- 💼 backend developer 
 - 🥅 2022 Goals: Learn more technologies such as gRPC and Graphql
 
 ### Connect with me:
