@@ -1,10 +1,7 @@
-### Hi there, I'm Ali
+# Hi! I'm Ali Fani Beimorgh, a back-end developer and a geek.
+undergraduate student of software engineering at the Sajjad University of Technology of Mashhad. I love learning new technologies and automating daily repetitive labor.
+I worked as an ASP.NET back-end developer at Rayanpersis for 1.5 years, where I worked on WMS and developed e-commerce REST APIs, as well as a 0.5-year IoT internship at Baser. I love software system design. I have experience with Python (web scraping, web development, automation), javascript (web development), c# (ASP.net web API and web forms), SQL and NoSQL (basic operations), Git, and a little Go.
 
-## I'm a Bachelor Student at Sajjad University of Technology
-
-
-- 💼 backend developer 
-- 🥅 2022 Goals: Learn more technologies such as gRPC and Graphql
 
 ### Connect with me:
 
@@ -13,7 +10,6 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram1]
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram2]
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email1]
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email2]
 
@@ -38,7 +34,5 @@
 [instagram]: https://www.instagram.com/alifani98
 [linkedin]: https://www.linkedin.com/in/ali-fani-b41a5bb6/
 [telegram1]: https://t.me/MrDelay
-[telegram2]: https://t.me/badboy_214
 [email1]: alifani1377@gmail.com
 [email2]: contact@alifani.ir
-
