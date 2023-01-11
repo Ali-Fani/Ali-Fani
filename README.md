@@ -1,7 +1,4 @@
 # Hi! I'm Ali Fani Beimorgh, a back-end developer and a geek.
-undergraduate student of software engineering at the Sajjad University of Technology of Mashhad. I love learning new technologies and automating daily repetitive labor.
-I worked as an ASP.NET back-end developer at Rayanpersis for 1.5 years, where I worked on WMS and developed e-commerce REST APIs, as well as a 0.5-year IoT internship at Baser. I love software system design. I have experience with Python (web scraping, web development, automation), javascript (web development), c# (ASP.net web API and web forms), SQL and NoSQL (basic operations), Git, and a little Go.
-
 
 ### Connect with me:
 
