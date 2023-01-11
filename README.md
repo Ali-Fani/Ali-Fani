@@ -1,4 +1,4 @@
-# Hi! I'm Ali Fani Beimorgh, a back-end developer and a geek.
+# Hi! I'm Ali Fani, a back-end developer and a geek.
 
 ### Connect with me:
 
